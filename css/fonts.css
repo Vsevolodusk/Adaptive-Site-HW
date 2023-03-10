@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url("../fonts/Monserrat/Montserrat-VariableFont_wght.ttf");
+}
+@font-face {
+    font-family: 'Verdana';
+    src: url("../fonts/verdana/verdana.ttf");
+}
+@font-face {
+    font-family: 'Segoe';
+    src: url("../fonts/Segoe/Segoe\ UI.ttf");
+}
+@font-face {
+    font-family: 'SegoeBold';
+    src: url("../fonts/Segoe/Segoe\ UI\ Bold.ttf");
+}
+
